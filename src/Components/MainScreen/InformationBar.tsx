@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import '../../styles/InformationBar.css'
 
 class InformationBar extends Component {
   render() {
     return (
-      <div>
-        
+      <div className="Informationbar">
+        infobar
       </div>
     )
   }

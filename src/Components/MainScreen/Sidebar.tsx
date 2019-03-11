@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import '../../styles/Sidebar.css'
 
 class Sidebar extends Component {
   render() {
     return (
-      <div>
-        
+      <div className= "Sidebar">
+        Sidebar
       </div>
     )
   }
