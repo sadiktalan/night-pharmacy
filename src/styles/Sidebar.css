@@ -2,5 +2,9 @@
     width: 20%;
     height: 80%;
     background-color: greenyellow;
-    float: left
+    text-align: center;
+    float: left;
+}
+.SidebarHeader {
+    text-align: center;
 }

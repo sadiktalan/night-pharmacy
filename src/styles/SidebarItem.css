@@ -1,0 +1,7 @@
+.SidebarItem{
+    height: 10%;
+    width: 30%;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px black;
+}

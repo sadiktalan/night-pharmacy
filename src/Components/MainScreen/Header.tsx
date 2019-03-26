@@ -6,7 +6,9 @@ class Header extends Component {
     return (
       <div
       className = "Header">
-        header
+        <h1>
+          NIGHT PHARMACY v.0.0.1
+        </h1>
       </div>
     )
   }
